@@ -1,4 +1,4 @@
-baseURL = 'https://misscodingnz.github.io/'
+baseURL = 'https://misscoding.tripwiretech.com/'
 languageCode = 'en-us'
 title = 'MissCoding Blog'
 metaDataFormat = "yaml"
