@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! I'm Chelsea Suddens"
       introSubtitle = "I love mobile dev!"
-      introPhoto = "/picture.jpg"
+      introPhoto = "me.jpg"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
